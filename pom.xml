@@ -11,6 +11,7 @@
   <name>seconddemo</name>
   <!-- FIXME change it to the project's website -->
   <!-- For testing webhook -->
+  <!-- For testing webhook with token -->
   <url>http://www.example.com</url>
 
   <properties>
