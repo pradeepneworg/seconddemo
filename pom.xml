@@ -10,6 +10,7 @@
 
   <name>seconddemo</name>
   <!-- FIXME change it to the project's website -->
+  <!-- For testing webhook -->
   <url>http://www.example.com</url>
 
   <properties>
